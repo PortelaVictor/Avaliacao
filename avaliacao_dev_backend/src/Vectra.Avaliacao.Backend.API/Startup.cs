@@ -54,7 +54,7 @@ namespace Vectra.Avaliacao.Backend
             
 
             services.AddTransient<IEFContext, EFContext>();
-            //services.AddScoped<IResponse, Response>();
+            services.AddScoped<IResponse, Response>();
             services.AddScoped<IContaService, ContaService>();
             services.AddCors(config =>
             {

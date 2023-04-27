@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿/*using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -6,7 +6,7 @@ using System.Net;
 using System.Threading.Tasks;
 using Vectra.Avaliacao.Backend.Domain;
 using Vectra.Avaliacao.Backend.Application.Interfaces;
-/*using Vectra.Avaliacao.Backend.Application.Interfaces.Interfaces;
+using Vectra.Avaliacao.Backend.Application.Interfaces.Interfaces;
 using Vectra.Avaliacao.Backend.Application.DTOs;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
